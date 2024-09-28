@@ -28,7 +28,7 @@ export default function ExperienceSection() {
     <section className="container py-20">
       <div className="uppercase flex flex-col justify-center items-center mb-20">
         <h1 className="text-red/95 text-5xl font-extrabold">experience</h1>
-        <p className="text-5xl font-extrabold">the salty cola</p>
+        <p className="text-5xl text-center font-extrabold">the salty cola</p>
       </div>
 
       {/* Play with grid column */}

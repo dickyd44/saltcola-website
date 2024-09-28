@@ -14,8 +14,8 @@ import photo_benefits_five from "./benefits/benefits-photo-5.jpg";
 import photo_benefits_six from "./benefits/benefits-photo-6.jpg";
 import photo_benefits_seven from "./benefits/benefits-photo-7.jpg";
 
-import lazada from "./order/lazada.png";
 import shopee from "./order/shopee.png";
+import tokopedia from "./order/tokopedia.png";
 import halal from "./order/halal.png";
 import recycle from "./order/recycle.png";
 import nutri_grade from "./order/nutri-grade.png";
@@ -40,4 +40,4 @@ export {
   photo_benefits_seven,
 };
 
-export { lazada, shopee, halal, recycle, nutri_grade };
+export { shopee, tokopedia, halal, recycle, nutri_grade };

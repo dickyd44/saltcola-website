@@ -42,7 +42,7 @@ export default function Footer() {
               </Link>
             ))}
           </div>
-          <p className="text-white mt-5 lg:mt-0">
+          <p className="text-white mt-5 lg:mt-0 text-center">
             Copyright ©2024 SaltCola® | SaltCola by KrõBe. All rights reserved
           </p>
         </div>
