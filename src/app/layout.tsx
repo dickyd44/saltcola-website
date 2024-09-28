@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Rubik } from "next/font/google";
-import { AppNavbar } from "@/layouts";
+import { AppFooter, AppNavbar } from "@/layouts";
 
 const rubik = Rubik({
   weight: ["300", "400", "500", "600", "700", "800", "900"],
@@ -24,6 +24,7 @@ export default function RootLayout({
       <body className={rubik.className}>
         <AppNavbar />
         {children}
+        <AppFooter />
       </body>
     </html>
   );

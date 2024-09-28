@@ -19,7 +19,7 @@ export default function HomeSection() {
         <h1 className="text-4xl font-bold mb-6">introducing</h1>
         <Link
           href="#"
-          className="text-lg p-3 px-8 border-2 font-medium rounded-full transition-all duration-300 ease-in-out hover:bg-white hover:text-dark"
+          className="text-lg p-3 px-8 border-2 font-medium rounded-full transition-all duration-300 ease-in-out hover:bg-white hover:text-dark hover:border-white cursor-pointer"
         >
           discover more
         </Link>
