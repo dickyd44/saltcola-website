@@ -12,7 +12,7 @@ const QUALITY = [{ logo: halal }, { logo: recycle }];
 
 export default function OrderSection() {
   return (
-    <section className="container min-h-screen flex flex-col items-center md:justify-around lg:justify-between justify-between my-20">
+    <section className="container min-h-screen flex flex-col items-center lg:justify-around xl:justify-between justify-between my-20">
       {/* Buy Now Section */}
       <div className="flex flex-col items-center">
         <h1 className="uppercase mb-5 text-center text-[#dc2626] text-3xl xl:text-4xl 2xl:text-5xl font-extrabold">
